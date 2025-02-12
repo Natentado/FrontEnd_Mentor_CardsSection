@@ -122,6 +122,10 @@ article .sections-container-middleware.sections-container-middleware > section:l
     width: 350px;
     height: 250px;
   }
+  article .sections-container > section p,
+  article .sections-container .sections-container-middleware > section p {
+    margin-top: 6px;
+  }
   article .sections-container > section img,
   article .sections-container .sections-container-middleware > section img {
     width: 64px;
