@@ -52,6 +52,7 @@ article .sections-container-middleware > section {
   padding: 28px;
   border-top: 4px solid #000;
   border-radius: 8px;
+  background: #fff;
 }
 article .sections-container > section h2,
 article .sections-container-middleware > section h2 {
@@ -123,6 +124,8 @@ article .sections-container-middleware.sections-container-middleware > section:l
   }
   article .sections-container > section img,
   article .sections-container .sections-container-middleware > section img {
+    width: 64px;
+    height: 64px;
     margin-top: auto;
   }
 }
